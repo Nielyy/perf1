@@ -2,7 +2,7 @@ Due to the function scope, var is accessible throughout the function where it is
 
 
 
-
+2.
 In JavaScript, the value ”0” returns false when matched with a Boolean context and hence is known as a “falsy” value. There are several contexts where this value is considered false; however, these contexts do not literally provide the falsy value. Some of the contexts where 0 is considered ‘falsy’ include: logical operations, conditional statements, if statements etc. The values ”0”, -0 , 0n, false, null, undefined, empty strings and NaN are all considered to be falsy values. Code within the if statement does not get executed when these values are used as conditions.
 
 1.The value of ”false”: Any statement that is marked to be false is treated as a Boolean value and is defined as ”0” in the mathematical context.
